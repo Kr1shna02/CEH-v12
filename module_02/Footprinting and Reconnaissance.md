@@ -75,3 +75,15 @@ Tools:
 +  [Followerwonk](https://followerwonk.com) 
 +  Sherlock
 # Website Footprinting 
+Information gained:
++ Software used and its version
++ Operating system used
++ Sub-directories and parameters
++ Filename, path, database field name, or query
++ Scripting platform
++ Technologies Used
+
+Tools:
+[Burp Suite](https://github.com/Kr1shna02/Tools/blob/main/Burp%20Suite.md)
+Methods:
+

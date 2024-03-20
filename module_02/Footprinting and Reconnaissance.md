@@ -45,4 +45,11 @@ Any Keyword can be specified before the operator.It is used to search for partic
 
 ## Google Hacking Database 
 In the GHDB, you will find search terms for files containing usernames, vulnerable servers, and even files containing passwords
+
 ![alter txt](https://github.com/Kr1shna02/CEH-v12/blob/main/images/google.png)
+
+## Other Techniques for Footprinting through Search Engines 
+
++ Google Advanced Search ![advanced_search](https://www.google.com/advanced_search)
++ Advanced Image Search ![image_search](https://www.google.com/advanced_image_search)
++ Reverse Image Search ![reverse image](https://www.google.com/imghp)

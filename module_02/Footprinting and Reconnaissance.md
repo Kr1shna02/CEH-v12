@@ -96,11 +96,13 @@ Tools:
 + https://archive.org
 + [Extracting links: Octoparse](https://www.octoparse.com )
 + [Centalops](https://centralops.net/)
++ [Mirroring Website]( https://www.httrack.com)
 +  ExifTool 
 
 Methods:
 + Examining the HTML source code
 + Examining Cookies
++ Mirroring Entire Website
 
 # Email Footprinting
 ## Tracking Email Communications

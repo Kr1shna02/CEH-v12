@@ -60,5 +60,7 @@ In the GHDB, you will find search terms for files containing usernames, vulnerab
 + [Netcraft](https://www.netcraft.com)
 + Sublist3r
 + [Pentest-Tools](https://pentest-tools.com)
-
+## Harvesting Email Lists
+Tools:
++ theHarvester
 

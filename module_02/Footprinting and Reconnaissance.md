@@ -7,13 +7,13 @@ Footprinting is used to gather maximum information of the computer system or the
 
 ## Information Obtained in Footprinting:
 + Organization Information - employee details, contact nos, about organisation etc.
-+ Network Information - Domain and sub-domains, Network blocks, Network topology, trusted routers, and firewalls, Whois records o DNS records and related information
++ Network Information - Domain and sub-domains, Network blocks, Network topology, trusted routers, and firewalls, Whois records, DNS records and related information
 + System Information - OS, webservers, technology's and applications used.
 
 ## Footprinting Methodology
 ![alter txt](https://github.com/Kr1shna02/CEH-v12/blob/main/images/footprinting.png)
 
-# Section 01- Footprinting through Search Engines
+# Footprinting through Search Engines
 ## Footprinting Using Advanced Google Hacking Techniques
 operator:serach_term
 Any Keyword can be specified before the operator.It is used to search for particular keyword in the particular searh query.
@@ -40,19 +40,21 @@ Any Keyword can be specified before the operator.It is used to search for partic
 + related - Display all pages related to the url
     - related:www.microsoft.com
 + info - Finds information for a specified webpage
-+ location
-+ filetype
-
++ location -Finds Location of the specified Organization
+    - location:www.google.com
++ filetype -Search results with specified file formats only
+    - filetype: pdf site: www.google.com
 ## Google Hacking Database 
 In the GHDB, you will find search terms for files containing usernames, vulnerable servers, and even files containing passwords
 
 ![alter txt](https://github.com/Kr1shna02/CEH-v12/blob/main/images/google.png)
 
+
 ## Other Techniques for Footprinting through Search Engines 
 + [advanced_search](https://www.google.com/advanced_search)
 + [image_search](https://www.google.com/advanced_image_search)
 + [reverse image search](https://www.google.com/imghp)
-+ [Iot Search engine](https://www.shodan.io/)
++ [Iot Search engine -SHODAN](https://www.shodan.io/)
 
 # Footprinting through Web Services
 ## Finding a Company’s Top-Level Domains (TLDs) and Sub-domains
@@ -66,6 +68,8 @@ Tools:
 ## Determining the Operating System
 Tools:
 + Netcraft
+  ![alter txt](https://github.com/Kr1shna02/CEH-v12/blob/main/images/netcraft.png)
+
 + shodan
 + [censys](https://search.censys.io/)
 

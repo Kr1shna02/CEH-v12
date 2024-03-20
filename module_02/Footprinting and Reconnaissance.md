@@ -89,6 +89,7 @@ Tools:
 + https://archive.org
 + [Extracting links: Octoparse](https://www.octoparse.com )
 +  ExifTool 
+
 Methods:
 + Examining the HTML source code
 + Examining Cookies

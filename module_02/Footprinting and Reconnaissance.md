@@ -14,6 +14,7 @@ Footprinting is used to gather maximum information of the computer system or the
 ![alter txt](https://github.com/Kr1shna02/CEH-v12/blob/main/images/footprinting.png)
 
 # Footprinting through Search Engines
+## Footprinting Using Advanced Google Hacking Techniques
 operator:serach_term
 Any Keyword can be specified before the operator.It is used to search for particular keyword in the particular searh query.
 + site -This operator restricts search results to the specified site or domain.
@@ -41,3 +42,7 @@ Any Keyword can be specified before the operator.It is used to search for partic
 + info - Finds information for a specified webpage
 + location
 + filetype
+
+## Google Hacking Database 
+In the GHDB, you will find search terms for files containing usernames, vulnerable servers, and even files containing passwords
+![alter txt](https://github.com/Kr1shna02/CEH-v12/blob/main/images/google.png)

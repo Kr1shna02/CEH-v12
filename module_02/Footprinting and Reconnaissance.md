@@ -105,6 +105,14 @@ Methods:
 Tools:
 + Infoga
 + [eMailTrackerPro](http://www.emailtrackerpro.com)
+# Whois Footprinting
+## Whois Lookup
+tools:
++ http://whois.domaintools.com
++ https://www.tamos.com
++ [Finding IP gelocation information  IP2Location ](https://www.ip2location.com)
+
+# DNS Footprinting
 
  
 

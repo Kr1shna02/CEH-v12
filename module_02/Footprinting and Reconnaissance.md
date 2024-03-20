@@ -152,7 +152,7 @@ Tools :
 + Dumpster Driving
 # Common Footprinting Tools
 + Maltego
-+ Recon-ng
++ [Recon-ng](https://hackertarget.com/recon-ng-tutorial/)
 + [FOCA](https://www.elevenpaths.com)
 + OSRframework: searchfy, domainfy, mailfy, phonefy, entify
 + OSINT Framework

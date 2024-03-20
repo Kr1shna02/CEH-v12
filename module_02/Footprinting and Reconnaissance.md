@@ -60,7 +60,7 @@ In the GHDB, you will find search terms for files containing usernames, vulnerab
 ## Finding a Company’s Top-Level Domains (TLDs) and Sub-domains
 ### Tools to Search Company’s Sub-domains
 + [Netcraft](https://www.netcraft.com)
-  ![alter txt](https://github.com/Kr1shna02/CEH-v12/blob/main/images/netcraft.png)
+![alter txt](https://github.com/Kr1shna02/CEH-v12/blob/main/images/netcraft.png)
 + Sublist3r
 + [Pentest-Tools](https://pentest-tools.com)
 ## Harvesting Email Lists

@@ -84,9 +84,11 @@ Information gained:
 + Technologies Used
 
 Tools:
-+ [Burp Suite](https://github.com/Kr1shna02/Tools/blob/main/Burp%20Suite.md)4
++ [Burp Suite](https://github.com/Kr1shna02/Tools/blob/main/Burp%20Suite.md)
 + [Web Data Extractor](http://www.webextractor.com)
-+ https://archive.org 
++ https://archive.org
++ [Extracting links: Octoparse](https://www.octoparse.com )
++  ExifTool 
 Methods:
 + Examining the HTML source code
 + Examining Cookies

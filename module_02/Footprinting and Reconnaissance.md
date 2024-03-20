@@ -84,6 +84,11 @@ Information gained:
 + Technologies Used
 
 Tools:
-[Burp Suite](https://github.com/Kr1shna02/Tools/blob/main/Burp%20Suite.md)
++ [Burp Suite](https://github.com/Kr1shna02/Tools/blob/main/Burp%20Suite.md)4
++ [Web Data Extractor](http://www.webextractor.com)
++ https://archive.org 
 Methods:
++ Examining the HTML source code
++ Examining Cookies
+ 
 

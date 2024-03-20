@@ -50,6 +50,6 @@ In the GHDB, you will find search terms for files containing usernames, vulnerab
 
 ## Other Techniques for Footprinting through Search Engines 
 
-+ Google Advanced Search [advanced_search]:(https://www.google.com/advanced_search)
-+ Advanced Image Search [image_search]:(https://www.google.com/advanced_image_search)
-+ Reverse Image Search [reverse image]:(https://www.google.com/imghp)
++ Google Advanced Search [advanced_search]: (https://www.google.com/advanced_search)
++ Advanced Image Search [image_search]: (https://www.google.com/advanced_image_search)
++ Reverse Image Search [reverse image]: (https://www.google.com/imghp)

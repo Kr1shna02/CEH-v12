@@ -63,4 +63,15 @@ In the GHDB, you will find search terms for files containing usernames, vulnerab
 ## Harvesting Email Lists
 Tools:
 + theHarvester
+## Determining the Operating System
+Tools:
++ Netcraft
++ shodan
++ [censys](https://search.censys.io/)
 
+# Footprinting through Social Networking Sites
+Tools:
++  [BuzzSumo](https://buzzsumo.com)
++  [Followerwonk](https://followerwonk.com) 
++  Sherlock
+# Website Footprinting 

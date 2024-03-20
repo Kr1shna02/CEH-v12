@@ -56,7 +56,7 @@ In the GHDB, you will find search terms for files containing usernames, vulnerab
 
 # Footprinting through Web Services
 ## Finding a Company’s Top-Level Domains (TLDs) and Sub-domains
-###Tools to Search Company’s Sub-domains
+### Tools to Search Company’s Sub-domains
 + [Netcraft](https://www.netcraft.com)
 + Sublist3r
 + [Pentest-Tools](https://pentest-tools.com)

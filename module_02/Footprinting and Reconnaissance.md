@@ -49,11 +49,9 @@ In the GHDB, you will find search terms for files containing usernames, vulnerab
 ![alter txt](https://github.com/Kr1shna02/CEH-v12/blob/main/images/google.png)
 
 ## Other Techniques for Footprinting through Search Engines 
-[advanced_search]: (https://www.google.com/advanced_search)
-[image_search]: (https://www.google.com/advanced_image_search)
-[reverse image]: (https://www.google.com/imghp)
++ [advanced_search](https://www.google.com/advanced_search)
++ [image_search](https://www.google.com/advanced_image_search)
++ [reverse image](https://www.google.com/imghp)
 [Like it so far? Follow me on GitHub](https://github.com/im-luka)
 
-+ Google Advanced Search [advanced_search]
-+ Advanced Image Search [image_search]
-+ Reverse Image Search [reverse image] 
+

@@ -23,11 +23,17 @@ Any Keyword can be specified before the operator.It is used to search for partic
     - allinurl: google career   
 + inurl -This operator restricts the results to only the pages containing the specified word in the URL.
     - inurl: copy site:www.google.com
-    
-+ allintitle
-+ intitle
-+ inanchor
-+ allinanchor
+
++ allintitle -All Query in Page title
+    - allintitle: detect malware
++ intitle - This operator restricts results to only the pages containing the specified term in the title
+    - intitle: help
++ inanchor - Search page contain specified word in the anchor link.
+    - antivirus inachor: norton
++ allinanchor- Search page contain all the specified terms in anchor link.
+    - allinanchor: best cloud service provider
++ cache: Display google cached version of the webpage.
+    - cache:www.ef.org
 + link
 + related
 + info

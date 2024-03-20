@@ -34,8 +34,10 @@ Any Keyword can be specified before the operator.It is used to search for partic
     - allinanchor: best cloud service provider
 + cache: Display google cached version of the webpage.
     - cache:www.ef.org
-+ link
-+ related
-+ info
++ link -This operator searches websites or pages that contain links to the specified website or page
+    - link:www.google.com
++ related - Display all pages related to the url
+    - related:www.microsoft.com
++ info - Finds information for a specified webpage
 + location
 + filetype

@@ -13,7 +13,7 @@ Footprinting is used to gather maximum information of the computer system or the
 ## Footprinting Methodology
 ![alter txt](https://github.com/Kr1shna02/CEH-v12/blob/main/images/footprinting.png)
 
-# Footprinting through Search Engines
+# Section 01- Footprinting through Search Engines
 ## Footprinting Using Advanced Google Hacking Techniques
 operator:serach_term
 Any Keyword can be specified before the operator.It is used to search for particular keyword in the particular searh query.

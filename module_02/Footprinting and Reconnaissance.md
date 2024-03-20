@@ -51,7 +51,14 @@ In the GHDB, you will find search terms for files containing usernames, vulnerab
 ## Other Techniques for Footprinting through Search Engines 
 + [advanced_search](https://www.google.com/advanced_search)
 + [image_search](https://www.google.com/advanced_image_search)
-+ [reverse image](https://www.google.com/imghp)
-[Like it so far? Follow me on GitHub](https://github.com/im-luka)
++ [reverse image search](https://www.google.com/imghp)
++ [Iot Search engine](https://www.shodan.io/)
+
+# Footprinting through Web Services
+## Finding a Company’s Top-Level Domains (TLDs) and Sub-domains
+###Tools to Search Company’s Sub-domains
++ [Netcraft](https://www.netcraft.com)
++ Sublist3r
++ [Pentest-Tools](https://pentest-tools.com)
 
 

@@ -152,9 +152,13 @@ Tools :
 + Dumpster Driving
 # Common Footprinting Tools
 + Maltego
+
+![alter txt](https://github.com/Kr1shna02/CEH-v12/blob/main/images/maltego.png)
+
 + [Recon-ng](https://hackertarget.com/recon-ng-tutorial/)
 + [FOCA](https://www.elevenpaths.com)
-+ OSRframework: searchfy, domainfy, mailfy, phonefy, entify
-+ OSINT Framework
++ OSRframework:
+  OSRFramework includes applications related to username checking, DNS lookups, information leaks research, deep web search, and regular expression extraction
++ [OSINT Framework](https://osintframework.com/)
 + BillChiper(give complete footprinting)
 + Spyse

@@ -17,9 +17,13 @@ Footprinting is used to gather maximum information of the computer system or the
 operator:serach_term
 Any Keyword can be specified before the operator.It is used to search for particular keyword in the particular searh query.
 + site -This operator restricts search results to the specified site or domain.
-    - games site: www.ec-council.org
-+ allinurl
-+ inurl
+    - games site: www.certified.com
+    
++ allinurl -This operator restricts results to only the pages containing all the query terms specified in the URL.
+    - allinurl: google career   
++ inurl -This operator restricts the results to only the pages containing the specified word in the URL.
+    - inurl: copy site:www.google.com
+    
 + allintitle
 + intitle
 + inanchor

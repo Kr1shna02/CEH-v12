@@ -122,5 +122,32 @@ Tools:
 + dnsrecon
 + [reverse lookup](https://mxtoolbox.com)
 
- 
+# Network Footprinting
+## Locate the Network Range]
+Tool:
+[ARIN](https://www.arin.net/about/welcome/region)
 
+## Traceroute
+Methods:
+traceroute utility helps find the IP addresses of intermediate devices such as routers and firewalls present between a source and its destination.
++ ICMP Traceroute
+    - tracert ip
++ TCP Traceroute
+    - tcptraceroute www.google.com
++ UDP Traceroute
+    - traceroute www.google.com
+Tools :
++ [Path Analyzer Pro](https://www.pathanalyzer.com)
++ [VisualRoute ]( http://www.visualroute.com)
+# Footprinting through Social Engineering
++ Eavesdropping
++ Shoulder Surfing
++ Dumpster Driving
+# Common Footprinting Tools
++ Maltego
++ Recon-ng
++ [FOCA](https://www.elevenpaths.com)
++ OSRframework: searchfy, domainfy, mailfy, phonefy, entify
++ OSINT Framework
++ BillChiper(give complete footprinting)
++ Spyse

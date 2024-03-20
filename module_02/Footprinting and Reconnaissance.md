@@ -163,7 +163,9 @@ Tools :
   - usufy.py – Checks for a user profile on up to 290 different platforms
   - mailfy.py – Check for the existence of a given email
   - searchfy.py – Performs a query on the platforms in OSRFramework
+    
         - searchfy.py -q “<Target Username>"
+    
   - domainfy.py – Checks for the existence of domains
   - phonefy.py – Checks for the existence of a given series of phones
   - entify.py – Uses regular expressions to extract entities

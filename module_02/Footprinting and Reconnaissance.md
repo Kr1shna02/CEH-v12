@@ -123,7 +123,7 @@ Tools:
 + [reverse lookup](https://mxtoolbox.com)
 
 # Network Footprinting
-## Locate the Network Range]
+## Locate the Network Range
 Tool:
 [ARIN](https://www.arin.net/about/welcome/region)
 

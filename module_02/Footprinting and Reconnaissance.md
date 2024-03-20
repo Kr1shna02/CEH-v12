@@ -88,6 +88,7 @@ Tools:
 + [Web Data Extractor](http://www.webextractor.com)
 + https://archive.org
 + [Extracting links: Octoparse](https://www.octoparse.com )
++ [Centalops](https://centralops.net/)
 +  ExifTool 
 
 Methods:
@@ -107,12 +108,19 @@ Tools:
 + [eMailTrackerPro](http://www.emailtrackerpro.com)
 # Whois Footprinting
 ## Whois Lookup
-tools:
+Tools:
 + http://whois.domaintools.com
 + https://www.tamos.com
 + [Finding IP gelocation information  IP2Location ](https://www.ip2location.com)
 
 # DNS Footprinting
+![alter txt](https://github.com/Kr1shna02/CEH-v12/blob/main/images/dns.png)
+Tools:
++ [SecurityTrails](https://securitytrails.com )
+## Reverse DNS Lookup 
+Tools:
++ dnsrecon
++ [reverse lookup](https://mxtoolbox.com)
 
  
 

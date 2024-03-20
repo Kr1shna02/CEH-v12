@@ -158,7 +158,16 @@ Tools :
 + [Recon-ng](https://hackertarget.com/recon-ng-tutorial/)
 + [FOCA](https://www.elevenpaths.com)
 + OSRframework:
+  
   OSRFramework includes applications related to username checking, DNS lookups, information leaks research, deep web search, and regular expression extraction
+  - usufy.py – Checks for a user profile on up to 290 different platforms
+  - mailfy.py – Check for the existence of a given email
+  - searchfy.py – Performs a query on the platforms in OSRFramework
+        - searchfy.py -q “<Target Username>"
+  - domainfy.py – Checks for the existence of domains
+  - phonefy.py – Checks for the existence of a given series of phones
+  - entify.py – Uses regular expressions to extract entities
+  
 + [OSINT Framework](https://osintframework.com/)
 + BillChiper(give complete footprinting)
 + Spyse

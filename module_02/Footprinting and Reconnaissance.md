@@ -93,5 +93,18 @@ Tools:
 Methods:
 + Examining the HTML source code
 + Examining Cookies
+
+# Email Footprinting
+## Tracking Email Communications
++ Recipient's System IP address
++  Geolocation
++  Email Received and Read
++  Read Duration
++  Links
+## Collecting Information from Email Header 
+Tools:
++ Infoga
++ [eMailTrackerPro](http://www.emailtrackerpro.com)
+
  
 

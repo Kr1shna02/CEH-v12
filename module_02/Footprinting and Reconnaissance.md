@@ -74,6 +74,7 @@ Tools:
 ## Determining the Operating System
 Tools:
 + Netcraft
+  
   ![netcraft](https://github.com/Kr1shna02/CEH-v12/assets/117007783/452b0eb3-beaf-4175-86ed-6383d43fe68a)
 + shodan
 + [censys](https://search.censys.io/)

@@ -61,10 +61,9 @@ In the GHDB, you will find search terms for files containing usernames, vulnerab
 ### Tools to Search Company’s Sub-domains
 + [Netcraft](https://www.netcraft.com)
   
-![alter txt](https://github.com/Kr1shna02/CEH-v12/blob/main/images/netcraft.png)
 + [Sublist3r](https://github.com/aboul3la/Sublist3r)
 + [Pentest-Tools](https://pentest-tools.com)
-+ 
+  
 ![pentest](https://github.com/Kr1shna02/CEH-v12/assets/117007783/c19a28f8-b504-4095-9714-3be31b2d7eb9)
 
 

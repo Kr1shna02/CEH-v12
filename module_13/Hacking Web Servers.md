@@ -22,6 +22,18 @@ The Internet Information Service (IIS) is a web server application developed by 
 
 ## Web server Security Issues
 
+![stack](https://github.com/Kr1shna02/CEH-v12/assets/117007783/1d5da0e0-3f9a-4269-b74c-45b78025e956)
+### Impact of Web Server Attacks
++ Compromise of user accounts
++ Website defacement
++ Secondary attacks from the website
++ Root access to other applications or server
++ Data Tampering 
++ Data Theft
+ 
+# Web Server attacks 
+## DNS Server Hijacking 
+
 
 
 

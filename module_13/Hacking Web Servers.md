@@ -6,4 +6,7 @@
 + Document Root -The document root is one of the root file directories of the web server that stores critical HTML files related to the web pages of a domain name, which will be sent in response to requests.
 
 + Server Root -It is the top-level root directory under the directory tree in which the server’s configuration and error, executable, and log files are stored. It consists of the code that implements the server.
-+ 
+  
++ Virtual Hosting -It is a technique of hosting multiple domains or websites on the same server
++ Web Proxy -A proxy server is located between the web client and web server. They are used to prevent IP blocking and maintain anonymity.
+

@@ -18,6 +18,10 @@
 + php -backend connector
 #### IIS Web Server Architecture
 ![iis](https://github.com/Kr1shna02/CEH-v12/assets/117007783/b239e9de-d899-41e2-87c0-8fe693cf804a)
+The Internet Information Service (IIS) is a web server application developed by Microsoft for Windows. It supports HTTP, HTTPS,FTP, FTPS,SMTP and NNTP.t has several components, including a protocol listener such as HTTP.sys and services such as the World Wide Web Publishing Service (WWW Service) and Windows Process Activation Service (WAS).
+
+## Web server Security Issues
+
 
 
 

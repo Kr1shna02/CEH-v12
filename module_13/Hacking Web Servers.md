@@ -70,5 +70,11 @@ The design of web servers limits public access to some extent. Directory travers
 
 ![ser](https://github.com/Kr1shna02/CEH-v12/assets/117007783/15e984a8-4281-432b-bfde-f4a944633670)
 
+## Web Cache Poisoning Attack 
+
+![ca](https://github.com/Kr1shna02/CEH-v12/assets/117007783/be0f44e8-f2da-4f50-866a-f1f54433ca2d)
+
+
+
 
 

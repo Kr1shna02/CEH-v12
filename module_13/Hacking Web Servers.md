@@ -74,6 +74,29 @@ The design of web servers limits public access to some extent. Directory travers
 
 ![ca](https://github.com/Kr1shna02/CEH-v12/assets/117007783/be0f44e8-f2da-4f50-866a-f1f54433ca2d)
 
+## SSH Brute Force Attack
+
+![ssh](https://github.com/Kr1shna02/CEH-v12/assets/117007783/94bef2df-778e-4bb6-876f-db3a7c52fdb6)
+
+## DoS/DDoS Attacks
+
+![d](https://github.com/Kr1shna02/CEH-v12/assets/117007783/33a7ac60-9224-432b-87f2-811f75e9a95e)
+
+## Man -in Middle Attacks
+
+![m](https://github.com/Kr1shna02/CEH-v12/assets/117007783/dc09d8a8-563c-44eb-924d-e1541c9a3724)
+
+## Web application Attacks
+
++  Server-Side Request Forgery (SSRF) Attack
++  Parameter/Form Tampering
++  Cookie Tampering - Cookie-tampering attacks occur when a cookie is sent from the client side to the server.
++  Unvalidated Input and File Injection Attacks
++  Session Hijacking
++  SQL Injection Attacks
++  Directory Traversal
++  Cross-Site Scripting (XSS) Attacks
++  Command Injection Attacks
 
 
 

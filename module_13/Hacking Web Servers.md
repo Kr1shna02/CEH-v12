@@ -32,7 +32,15 @@ The Internet Information Service (IIS) is a web server application developed by 
 + Data Theft
  
 # Web Server attacks 
-## DNS Server Hijacking 
+## DNS Server Hijacking
+
+![dns hijack](https://github.com/Kr1shna02/CEH-v12/assets/117007783/e26b9c45-e713-452e-bcb8-d885112a6e00)
+
+## DNS Amplification Attack
+
+![dns](https://github.com/Kr1shna02/CEH-v12/assets/117007783/1e1b480c-c150-4af1-8430-f779e51025fe)
+
+
 
 
 

@@ -20,11 +20,16 @@ Skipfish is an active web application (deployed on a webserver) security reconna
 
 
 ![test](https://github.com/Kr1shna02/CEH-v12/assets/117007783/5bc696b5-2a76-4409-a34a-d46cfc5a5261)
-<br />
 
 ![skip](https://github.com/Kr1shna02/CEH-v12/assets/117007783/794b165f-a7c6-4841-a9bf-db80a72fb589)
 
-
 ![res](https://github.com/Kr1shna02/CEH-v12/assets/117007783/f739e1b5-e45e-4ea7-9482-93bb6a046233)
+
+# Footprint a Web Server using the httprecon Tool
+
+httprecon is a tool for advanced web server fingerprinting. This tool performs banner-grabbing attacks, status code enumeration, and header ordering analysis on its target web server.
+
+![h](https://github.com/Kr1shna02/CEH-v12/assets/117007783/a53ec497-3480-42cf-8b8f-040d63e4995e)
+
 
 

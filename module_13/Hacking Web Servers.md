@@ -98,6 +98,13 @@ The design of web servers limits public access to some extent. Directory travers
 +  Cross-Site Scripting (XSS) Attacks
 +  Command Injection Attacks
 
+# Web Server Attack Methodology
++ Information Gathering
++ Web Server Footprinting
++ Website Mirroring
++ Vulnerability Scanning
++ Session Hijacking
++ Web Server Passwords Hacking
 
-
-
+## Information Gathering
+[who.is](https://who.is)

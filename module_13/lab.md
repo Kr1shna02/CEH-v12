@@ -30,5 +30,37 @@ httprecon is a tool for advanced web server fingerprinting. This tool performs b
 
 <br>![h](https://github.com/Kr1shna02/CEH-v12/assets/117007783/a53ec497-3480-42cf-8b8f-040d63e4995e)
 
+# Enumerate Web Server Information using Nmap Scripting Engine (NSE)
++ Enumerate the directories used by web servers and web applications.
+  ```
+  nmap -sV --script=http-enum [target website]
+  ```
+  ![L1](https://github.com/kr1shna02/CEH-v12/assets/117007783/27138781-efbd-4d7d-9b78-a427836ebe12)
 
++ To discover the hostnames that resolve the targeted domain.
+```
+  nmap --script hostmap-bfk -script-args hostmap-bfk.prefix=hostmap- www.goodshopping.com
+```
++ Check whether Web Application Firewall is configured on the target host or domain.
+```
+  nmap -p80 --script http-waf-detect www.goodshopping.com
+```
+![w](https://github.com/kr1shna02/CEH-v12/assets/117007783/77e78af5-2add-4141-bded-e64decfb574d)
+
+# Uniscan Web Server Fingerprinting
+Uniscan is a versatile server fingerprinting tool that not only performs simple commands like ping, traceroute, and nslookup, but also does static, dynamic, and stress checks on a web server. 
++ To search for dirtories
+```
+  uniscan -u http:url -q
+```
++ use the dynamic testing option by giving the command -d
+```
+ uniscan -u http://10.10.1.22:8080/CEH -d
+```
+![t](https://github.com/kr1shna02/CEH-v12/assets/117007783/82f0bb8a-c4ab-435e-8de6-5d8f0c3a8dad)
+
+Result are stored as a html page in uniscan directory with IP of the domain a file name.
+
+
+  
 

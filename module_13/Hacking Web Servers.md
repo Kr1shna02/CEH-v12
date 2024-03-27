@@ -107,4 +107,79 @@ The design of web servers limits public access to some extent. Directory travers
 + Web Server Passwords Hacking
 
 ## Information Gathering
-[who.is](https://who.is)
+Information gathering tools
++ [who.is](https://who.is)
++ [Domain Dossier](https://centralops.net)
++ [Find Subdomains](https://pentest-tools.com)
+  
+## Information Gathering from Robots.txt File
+A website owner creates a robots.txt file to list the files or directories a web crawler should index for providing search results. Poorly written robots.txt files can cause the complete indexing of website files and directories.
+
+![p](https://github.com/kr1shna02/CEH-v12/assets/117007783/884d32fb-9577-406f-9c25-1ee52ee7cf26)
+
+## Web Server Footprinting/Banner Grabbing
+Tools
++ Netcat -netcat is a networking utility that reads and writes data across network connections by using the TCP/IP protocol.
+
+![ser](https://github.com/kr1shna02/CEH-v12/assets/117007783/f4b24e81-f7d7-4bd5-88c0-562a3d780a76)
+
++ httprecon -httprecon is a tool for advanced web server fingerprinting. This tool performs banner-grabbing attacks, status code enumeration, and header ordering analysis on the target web server and provides accurate web server fingerprinting information.
+
+![m](https://github.com/kr1shna02/CEH-v12/assets/117007783/0bf7e244-46d2-45b6-a600-f4f9e028cf40)
+
++ ID Serve -ID Serve is a simple Internet server identification utility.
+  
+  ![id](https://github.com/kr1shna02/CEH-v12/assets/117007783/219794ec-4e0f-451b-8993-d26e71246390)
+
+## Enumerating Web Server Information Using Nmap
++ Discover virtual domains with hostmap:
+  ```
+  nmap --script hostmap <host>
+  ```
++ Detect a vulnerable server that uses the TRACE method:
+  ```
+  nmap --script http-trace -p80 localhost
+  ```
++ Harvest email accounts with http-google-email:
+  ```
+  nmap --script http-google-email <host>
+  ```
++ Enumerate users with http-userdir-enum:
+```
+  nmap -p80 --script http-userdir -enum localhost
+```
++ Detect HTTP TRACE:
+```
+  nmap -p80 --script http-trace <host>
+```
++ Check if the web server is protected by a web application firewall (WAF) or IPS:
+```
+  nmap -p80 --script http-waf-detect --script-args=”http-waf-detect.uri=/testphp.vulnweb.com/artists.php,http-waf-detect.detectBodyChanges” www.modsecurity.org
+```
++ Enumerate common web applications
+```
+  nmap --script http-enum -p80 <host>
+```
++ Obtain robots.txt
+```
+  nmap -p80 --script http-robots.txt <host>
+```
+## Finding Default Credentials of Web Server 
+
+![q](https://github.com/kr1shna02/CEH-v12/assets/117007783/ede898a8-979d-4f39-a53a-abc3b022f679)
+
+## Finding Default contents of Web Server
++ Administrators debug and test functionality
++ Sample functionality to demonstrate common tasks
++ Publicly accessible powerful functions
++ Server installation manuals
+
+Tools
+
+Nikto -  is a vulnerability scanner used extensively to identify potential vulnerabilities in web applications and web servers.
+
+![w](https://github.com/kr1shna02/CEH-v12/assets/117007783/25a18254-8d05-439a-b3b5-9ad90bd1cee3)
+
+## Finding Directory Listings of Web Server
+
+

@@ -182,4 +182,15 @@ Nikto -  is a vulnerability scanner used extensively to identify potential vulne
 
 ## Finding Directory Listings of Web Server
 
+When a web server receives a request for a directory, rather than a file, the web server responds to the request in the following ways. 
++ Return Default Resource within the directory
++ Return Error
++ Return listing of directory content
+Tool:
+
+Dirhunt - is a web crawler optimized for searching and analyzing directories.
+
+![d](https://github.com/kr1shna02/CEH-v12/assets/117007783/1d28eb94-4d6f-443b-af12-5312822922ec)
+
+
 
